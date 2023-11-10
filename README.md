@@ -1,7 +1,12 @@
 # loginPythonPostgres
 #Codigo creado por Alan Contreras, 
 
-Se debe instalar postgreSQL, pgadmin4 o psql 
+Se debe instalar postgres y python 
+
+en consola, se debe instalar psycopg2
+
+pip install psycopg2
+
 Posteriormente, crear una base con las siguientes especificaciones (NOTA: deben coincidir ambas configuraciones {postgreSQL.py, basePostgres}
 
 database="login_base",
